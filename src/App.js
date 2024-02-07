@@ -20,6 +20,8 @@ function App() {
             render={() => (
               <section>
                 <h2>Welcome to the Redux Essentials example app!</h2>
+                <h2>This is a lab work!</h2>
+
               </section>
             )}
           />
